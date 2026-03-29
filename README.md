@@ -18,8 +18,6 @@ margin-top:40px;
 <nav>
 <a href="#">Home</a>
 <a href="#">Doctors</a>
-<a href="#">Locations</a>
-<a href="#">Login</a>
 </nav>
 
 </header>
@@ -30,9 +28,6 @@ margin-top:40px;
 <h2>Professional Veterinary Care for Your Pets</h2>
 
 <p>Trusted veterinary doctors, modern facilities, and compassionate care.</p>
-
-<a class="btn" href="#">Book Appointment</a>
-<a class="btn" href="#">View Doctors</a>
 
 </section>
 
